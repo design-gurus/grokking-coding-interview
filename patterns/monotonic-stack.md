@@ -6,7 +6,7 @@
 
 A monotonic stack is a stack whose values are kept in order, either always increasing or always decreasing from bottom to top. Before pushing a new value, you pop everything that would break that order.
 
-The pops are the point. Say the value 7 pops the value 3 off a decreasing stack. That means 7 is the first value to the right of 3 that is larger than it. You have just computed the next greater element for 3, for free, as a side effect of maintaining the order.
+The pops are the point. Say the value 7 pops the value 3 off a decreasing stack. That means 7 is the first value to the right of 3 that is larger than it. You have just computed the next greater element for 3, as a side effect of maintaining the order, at no extra cost.
 
 ## Recognize it when
 

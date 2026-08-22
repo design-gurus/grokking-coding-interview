@@ -18,6 +18,7 @@ This repository is the free index, summary, and cheat sheet collection for that 
 - [How to use this repo](#how-to-use-this-repo)
 - [How to attack a problem you have never seen](#how-to-attack-a-problem-you-have-never-seen)
 - [The patterns](#the-patterns)
+- [The problem index](#the-problem-index)
 - [Cheat sheets](#cheat-sheets)
 - [Glossary](#glossary)
 - [Recommended reading](#recommended-reading)
@@ -46,9 +47,10 @@ For more on the series, see [What is the Grokking series?](https://www.designgur
 
 1. Read [how to recognize the pattern](cheat-sheets/recognize-the-pattern.md) once, so you have a routine for the first sixty seconds of any problem.
 2. Work through the [patterns](patterns/) in order. For each one, read "Recognize it when" first, then the mechanism.
-3. Practice on real problems, and after every one, write down which pattern it was and which cue told you. That note is worth more than the solution.
-4. The night before an interview, reread only the "Recognize it when" sections.
-5. Go deeper in the [full course](https://www.designgurus.io/course/grokking-the-coding-interview) when you want worked solutions and a place to run them.
+3. Practice with the [problem index](problems/), which maps every problem in the course to its pattern. Cover the pattern heading, name the pattern yourself, then check.
+4. After every problem, write down which pattern it was and which cue told you. That note is worth more than the solution.
+5. The night before an interview, reread only the "Recognize it when" sections.
+6. Go deeper in the [full course](https://www.designgurus.io/course/grokking-the-coding-interview) when you want worked solutions and a place to run them.
 
 ## How to attack a problem you have never seen
 
@@ -87,6 +89,25 @@ All 41, one page each, are in [patterns/](patterns/). The most common twelve:
 
 See the full catalog, including the eleven advanced patterns: [patterns/README.md](patterns/README.md)
 
+## The problem index
+
+Every problem in the course, 302 of them, mapped to the pattern that solves it, with the difficulty the course assigns: [problems/README.md](problems/README.md)
+
+22 of them have a walkthrough: the problem in our own words, the argument for why it belongs to its pattern, the approach and its invariant, the complexity, and the edge cases to say out loud. They stop short of the code, because writing the code is the part you need to practice.
+
+| Problem | Pattern |
+|---------|---------|
+| [Two Sum](problems/two-sum.md) | [Hash Maps](patterns/hash-maps.md) |
+| [Container With Most Water](problems/container-with-most-water.md) | [Two Pointers](patterns/two-pointers.md) |
+| [Smallest Window containing Substring](problems/smallest-window-containing-substring.md) | [Sliding Window](patterns/sliding-window.md) |
+| [Merge Intervals](problems/merge-intervals.md) | [Merge Intervals](patterns/merge-intervals.md) |
+| [Number of Islands](problems/number-of-islands.md) | [Island Traversal](patterns/island-matrix-traversal.md) |
+| [Daily Temperatures](problems/daily-temperatures.md) | [Monotonic Stack](patterns/monotonic-stack.md) |
+| [Clone Graph](problems/clone-graph.md) | [Clone](patterns/clone.md) |
+| [Tasks Scheduling](problems/tasks-scheduling.md) | [Topological Sort](patterns/topological-sort.md) |
+
+Plus fourteen more, all linked from the index.
+
 ## Cheat sheets
 
 - [How to recognize the pattern in sixty seconds](cheat-sheets/recognize-the-pattern.md), the constraint table, the trait lookup, the decision tree, and the patterns that get confused with each other.
@@ -107,7 +128,7 @@ Start with [the coding patterns, explained](https://www.designgurus.io/blog/grok
 
 This repo is being built in the open. Planned, in order:
 
-- **problems/**, an index mapping every problem in the course to its pattern, plus walkthroughs of the most searched ones. Approach and recognition, not full solutions.
+- **problems/**, more walkthroughs. The index is complete, and 22 of the 302 problems have a page so far.
 - **cheat-sheets/**, more of them: flashcards, complexity tables, comparison sheets like BFS versus DFS and greedy versus dynamic programming, an edge-case checklist.
 - **templates/**, the code skeleton for every pattern in Python, Java, and JavaScript.
 - **roadmaps/**, study plans for one week, four weeks, from scratch, and for experienced engineers who have not interviewed in years.
