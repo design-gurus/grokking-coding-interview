@@ -100,5 +100,6 @@ Top K Numbers, Kth Smallest Number, K Closest Points to Origin, Connect Ropes, T
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Top 'K' Elements Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-top-k-elements-pattern)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
 - The heap itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)

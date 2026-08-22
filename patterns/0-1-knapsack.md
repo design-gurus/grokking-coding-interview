@@ -92,5 +92,6 @@ Note that O(n × C) is pseudo-polynomial. It depends on the size of the capacity
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to 0/1 Knapsack Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-01-knapsack-pattern)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
 - Every dynamic programming pattern, in depth: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming)

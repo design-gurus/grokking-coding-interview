@@ -95,5 +95,6 @@ Fibonacci Numbers, Staircase, Number Factors, Minimum Jumps to Reach the End, Mi
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Fibonacci Numbers Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-fibonacci-numbers-pattern)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
 - Every dynamic programming pattern, in depth: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming)
