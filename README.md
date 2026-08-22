@@ -110,9 +110,23 @@ Plus fourteen more, all linked from the index.
 
 ## Cheat sheets
 
-- [How to recognize the pattern in sixty seconds](cheat-sheets/recognize-the-pattern.md), the constraint table, the trait lookup, the decision tree, and the patterns that get confused with each other.
+Ten of them, indexed in [cheat-sheets/README.md](cheat-sheets/README.md).
 
-More are on the way. See [what is coming next](#what-is-coming-next).
+Read before an interview:
+
+- [How to recognize the pattern in sixty seconds](cheat-sheets/recognize-the-pattern.md), the constraint table, the trait lookup, the decision tree, and the patterns that get confused with each other.
+- [All 41 patterns, on one page](cheat-sheets/all-41-patterns.md), the night-before revision sheet, one card per pattern.
+- [How to talk through a coding interview](cheat-sheets/interview-communication.md), the order that works and the sentences that carry weight.
+
+Read while you prepare:
+
+- [What complexity passes](cheat-sheets/what-complexity-passes.md), reading the intended solution out of the constraints.
+- [Complexity cheat sheet](cheat-sheets/complexity-cheat-sheet.md), every pattern, structure, and algorithm with what it costs.
+- [BFS vs DFS](cheat-sheets/bfs-vs-dfs.md), and why the wrong one still runs.
+- [DP vs greedy vs backtracking](cheat-sheets/dp-vs-greedy-vs-backtracking.md), the choice that decides most interviews.
+- [Python vs Java vs JavaScript idioms](cheat-sheets/python-vs-java-vs-javascript-idioms.md), the same twenty operations in three languages, plus the traps each one sets.
+- [Edge cases checklist](cheat-sheets/edge-cases-checklist.md), by input type.
+- [Flashcards](cheat-sheets/flashcards.md), 103 cards.
 
 ## Glossary
 
@@ -129,9 +143,9 @@ Start with [the coding patterns, explained](https://www.designgurus.io/blog/grok
 This repo is being built in the open. Planned, in order:
 
 - **problems/**, more walkthroughs. The index is complete, and 22 of the 302 problems have a page so far.
-- **cheat-sheets/**, more of them: flashcards, complexity tables, comparison sheets like BFS versus DFS and greedy versus dynamic programming, an edge-case checklist.
 - **templates/**, the code skeleton for every pattern in Python, Java, and JavaScript.
 - **roadmaps/**, study plans for one week, four weeks, from scratch, and for experienced engineers who have not interviewed in years.
+- **cheat-sheets/**, more comparisons: sorting algorithms, heap versus ordered set, recursion to iteration, bit tricks, and an annotated mock interview.
 
 Want one of them sooner, or want to write one? Open an issue or a pull request.
 
