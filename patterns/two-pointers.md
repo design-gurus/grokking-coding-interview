@@ -88,4 +88,5 @@ Pair with Target Sum, Remove Duplicates, Squaring a Sorted Array, Triplet Sum to
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Two Pointers Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-two-pointers-pattern)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)

@@ -80,5 +80,6 @@ Two Sum, First Non-repeating Character, Contains Duplicate, Longest Palindrome, 
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Hash Tables](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-hash-tables)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
 - The data structure itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)

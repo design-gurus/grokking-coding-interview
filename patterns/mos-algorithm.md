@@ -116,4 +116,5 @@ XOR Queries of a Subarray, Distinct Elements in a Subarray, Minimum Absolute Dif
 
 ## Go deeper
 
-- The full pattern, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to MO’s Algorithm Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-mos-algorithm-pattern)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
