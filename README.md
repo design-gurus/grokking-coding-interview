@@ -89,6 +89,8 @@ All 41, one page each, are in [patterns/](patterns/). The most common twelve:
 
 See the full catalog, including the eleven advanced patterns: [patterns/README.md](patterns/README.md)
 
+Want the core set explained rather than listed? The twenty highest-return patterns are written up with a template, a diagram and three LeetCode problems each in [LeetCode patterns](https://www.designgurus.io/blog/top-lc-patterns). This repo stays the complete reference for all 41; that guide is the one to read first if you are starting out.
+
 ## The problem index
 
 Every problem in the course, 302 of them, mapped to the pattern that solves it, with the difficulty the course assigns: [problems/README.md](problems/README.md)
@@ -137,6 +139,8 @@ Amortized, invariant, subsequence versus substring, pseudo-polynomial, and the r
 Free guides on the DesignGurus blog and answers, plus every related course: [resources.md](resources.md)
 
 Start with [the coding patterns, explained](https://www.designgurus.io/blog/grokking-the-coding-interview-patterns) and [do not just grind LeetCode](https://www.designgurus.io/blog/dont-just-leetcode).
+
+For the twenty that matter most against LeetCode specifically, each with a code template, a diagram and three practice problems, read [LeetCode patterns](https://www.designgurus.io/blog/top-lc-patterns).
 
 ## What is coming next
 
