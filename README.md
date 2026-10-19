@@ -162,6 +162,7 @@ This repo explains the patterns and how to recognize them. The course teaches ea
 - If dynamic programming is the gap: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming)
 - Practice live: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews)
 - Designing systems, not just solving problems: [grokking-system-design](https://github.com/design-gurus/grokking-system-design)
+- Choosing a system design course: [best-system-design-courses](https://github.com/design-gurus/best-system-design-courses), the best system design courses compared by format, price, and goal
 
 ## Newsletter
 
