@@ -1,6 +1,6 @@
 # The 41 Coding Interview Patterns
 
-Every pattern in [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview), one page each, in course order.
+Every pattern in [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-readme), one page each, in course order.
 
 Read the middle column first. It is the cue you get from the problem statement, before you know how to solve anything. Learning to read that cue quickly is the whole point of pattern-based preparation.
 

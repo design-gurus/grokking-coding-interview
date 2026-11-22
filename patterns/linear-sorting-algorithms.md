@@ -95,5 +95,5 @@ Sort Colors, Relative Sort Array, Height Checker, Maximum Gap, Array Partition, 
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Linear Sorting Algorithms](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-linear-sorting-algorithms)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Linear Sorting Algorithms](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-linear-sorting-algorithms?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-linear-sorting-algorithms)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-linear-sorting-algorithms)

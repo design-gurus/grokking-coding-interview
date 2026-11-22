@@ -86,5 +86,5 @@ Subset Sum Equal to Target, Subsets having Sum between A and B, Closest Subseque
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Meet in the Middle](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-meet-in-the-middle)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Meet in the Middle](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-meet-in-the-middle?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-meet-in-the-middle)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-meet-in-the-middle)

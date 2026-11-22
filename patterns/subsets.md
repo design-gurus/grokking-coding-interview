@@ -96,6 +96,6 @@ Subsets, Subsets With Duplicates, Permutations, String Permutations by changing 
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Subsets Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-subsets-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- Recursion and backtracking in depth: [Grokking the Art of Recursion](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
+- This pattern's introduction in the course: [Introduction to Subsets Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-subsets-pattern?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-subsets)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-subsets)
+- Recursion and backtracking in depth: [Grokking the Art of Recursion](https://www.designgurus.io/course/grokking-recursion-for-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-subsets)

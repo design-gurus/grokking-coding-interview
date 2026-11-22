@@ -86,6 +86,6 @@ Find the Median of a Number Stream, Sliding Window Median, Maximize Capital, IPO
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Two Heaps Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-two-heaps-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- The heap itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
+- This pattern's introduction in the course: [Introduction to Two Heaps Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-two-heaps-pattern?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-two-heaps)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-two-heaps)
+- The heap itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-two-heaps)

@@ -109,6 +109,6 @@ Print in Order, Print FooBar Alternately, Print Zero Even Odd, Building H2O, Fiz
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Multi-threaded Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-multithreaded-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- Concurrency in depth: [Grokking Multithreading and Concurrency](https://www.designgurus.io/course/grokking-multithreading-and-concurrency-for-coding-interviews)
+- This pattern's introduction in the course: [Introduction to Multi-threaded Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-multithreaded-pattern?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-multi-threaded)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-multi-threaded)
+- Concurrency in depth: [Grokking Multithreading and Concurrency](https://www.designgurus.io/course/grokking-multithreading-and-concurrency-for-coding-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-multi-threaded)

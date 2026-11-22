@@ -1,0 +1,128 @@
+# Grokking Coding Interview
+
+> The 41 coding patterns and how to recognize each one in a new problem. A free guide from DesignGurus.io, in plain Markdown, with no account required.
+
+Each page is short and ends with links to full course lessons and free articles. Each description below is the opening sentence of that page.
+
+## Guide pages
+
+- [Glossary](https://github.com/design-gurus/grokking-coding-interview/blob/main/glossary.md): Terms that appear across this repo, in plain language.
+- [Resources](https://github.com/design-gurus/grokking-coding-interview/blob/main/resources.md): Free reading that goes with this repo, and the paid courses that go deeper.
+
+## Cheat sheets
+
+- [All 41 Patterns, on One Page](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/all-41-patterns.md): The night-before revision sheet.
+- [BFS vs DFS: Which Search, and Why](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/bfs-vs-dfs.md): Both visit every node once and both cost O(V + E).
+- [Complexity Cheat Sheet](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/complexity-cheat-sheet.md): Every pattern, every data structure, and every common algorithm, with what it costs.
+- [Dynamic Programming vs Greedy vs Backtracking](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/dp-vs-greedy-vs-backtracking.md): All three explore a set of choices.
+- [Edge Cases Checklist](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/edge-cases-checklist.md): Most failed submissions are not wrong algorithms.
+- [Coding Interview Flashcards](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/flashcards.md): 103 question and answer cards over the patterns, the structures, and the traps.
+- [How to Talk Through a Coding Interview](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/interview-communication.md): The code is graded, and so is everything around it.
+- [Python vs Java vs JavaScript: The Same Twenty Operations](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/python-vs-java-vs-javascript-idioms.md): Knowing the pattern is not enough if you lose four minutes remembering how to build a max-heap.
+- [How to Recognize the Pattern in Sixty Seconds](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/recognize-the-pattern.md): You have read a problem you have never seen.
+- [What Complexity Passes: Reading the Answer Out of the Constraints](https://github.com/design-gurus/grokking-coding-interview/blob/main/cheat-sheets/what-complexity-passes.md): The size of the input is not decoration.
+
+## Patterns
+
+- [Pattern: 0/1 Knapsack (Dynamic Programming)](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/0-1-knapsack.md): You have items, each with a weight and a value, and a bag that can hold a limited weight.
+- [Pattern: Articulation Points and Bridges](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/articulation-points-and-bridges.md): In an undirected graph, an articulation point is a vertex whose removal disconnects the graph.
+- [Pattern: Backtracking](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/backtracking.md): Backtracking walks a tree of decisions.
+- [Pattern: Binary Indexed Tree (Fenwick Tree)](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/binary-indexed-tree.md): A binary indexed tree, also called a Fenwick tree, is a flat array where each slot holds the sum of a block of the original array.
+- [Pattern: Bitwise XOR](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/bitwise-xor.md): XOR has three properties that do all the work: a ^ a = 0, a ^ 0 = a, and the order of operations does not matter.
+- [Pattern: Clone](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/clone.md): A deep copy means the new structure shares no nodes with the old one, so changing the copy leaves the original untouched.
+- [Pattern: Counting](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/counting.md): A large family of problems reduces to one frequency table plus a little logic on top of it.
+- [Pattern: Cyclic Sort](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/cyclic-sort.md): Normal sorting compares elements against each other, and no comparison sort can beat O(n log n).
+- [Pattern: Fast and Slow Pointers](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/fast-and-slow-pointers.md): One pointer takes one step at a time.
+- [Pattern: Fibonacci Numbers (Dynamic Programming)](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/fibonacci-numbers.md): The Fibonacci recurrence, f(n) = f(n-1) + f(n-2), is the simplest shape in dynamic programming.
+- [Pattern: Graphs](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/graphs.md): A graph is a set of nodes and the connections between them.
+- [Pattern: Greedy Algorithms](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/greedy-algorithms.md): A greedy algorithm makes the locally best choice at each step and never reconsiders it.
+- [Pattern: Hash Maps](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/hash-maps.md): A hash map stores key to value pairs and looks them up in constant time on average.
+- [Pattern: In-place Reversal of a Linked List](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/in-place-reversal-of-a-linked-list.md): Reversing a linked list by building a new one is easy and costs O(n) memory.
+- [Pattern: Island (Matrix Traversal)](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/island-matrix-traversal.md): In a grid problem, each cell is a node and its adjacent cells are its edges.
+- [Pattern: K-way Merge](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/k-way-merge.md): Merging two sorted lists is easy with two pointers: compare the two heads and take the smaller one.
+- [Pattern: Linear Sorting Algorithms](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/linear-sorting-algorithms.md): Comparison sorts have a proven lower bound of O(n log n), because there are n!
+- [Pattern: Meet in the Middle](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/meet-in-the-middle.md): Some problems have no better answer than trying every subset, and 2^40 is far too many.
+- [Pattern: Merge Intervals](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/merge-intervals.md): An interval is a pair of numbers, a start and an end.
+- [Pattern: Modified Binary Search](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/modified-binary-search.md): The textbook version searches a sorted array for a value.
+- [Pattern: Monotonic Queue](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/monotonic-queue.md): A monotonic stack can only be touched at one end.
+- [Pattern: Monotonic Stack](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/monotonic-stack.md): A monotonic stack is a stack whose values are kept in order, either always increasing or always decreasing from bottom to top.
+- [Pattern: Mo's Algorithm](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/mos-algorithm.md): You are given a fixed array and many queries of the form "tell me something about the range from L to R".
+- [Pattern: Multi-threaded](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/multi-threaded.md): In a concurrency question, the code itself is usually short.
+- [Pattern: Ordered Set](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/ordered-set.md): An ordered set keeps its elements sorted at all times, usually with a balanced binary search tree.
+- [Pattern: Palindromic Subsequence (Dynamic Programming)](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/palindromic-subsequence.md): Most one-dimensional dynamic programming asks "what is the best answer ending at position i".
+- [Pattern: Prefix Sum](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/prefix-sum.md): A prefix sum array holds, at each position, the total of everything up to that point.
+- [Pattern: Segment Tree](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/segment-tree.md): Prefix sums answer range queries in O(1), but only while the array never changes.
+- [Pattern: Serialize and Deserialize](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/serialize-and-deserialize.md): Serializing a tree means writing it out as text.
+- [Pattern: Simulation](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/simulation.md): A simulation problem describes a process, and the answer is whatever the process produces.
+- [Pattern: Sliding Window](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/sliding-window.md): A window is a contiguous stretch of the array or string, marked by a left and a right index.
+- [Pattern: Stacks](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/stacks.md): A stack stores items in last-in, first-out order.
+- [Pattern: Subsets](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/subsets.md): There are 2^n subsets of a set of n elements, because each element is either in or out.
+- [Pattern: Top K Elements](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/top-k-elements.md): If you only need the K largest values, sorting all n of them does far more work than the question asked for.
+- [Pattern: Topological Sort](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/topological-sort.md): Given tasks with prerequisites, a topological order is any sequence where each task appears after everything it depends on.
+- [Pattern: Tree Depth First Search](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/tree-depth-first-search.md): Depth first search on a tree means: solve the left subtree, solve the right subtree, then combine the two answers at the current node.
+- [Pattern: Tree Level Order Traversal](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/tree-level-order-traversal.md): Level order traversal, also called breadth first search on a tree, uses a queue.
+- [Pattern: Trie](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/trie.md): A trie, also called a prefix tree, holds a set of strings.
+- [Pattern: Two Heaps](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/two-heaps.md): A heap gives you the smallest or the largest element instantly, but nothing about the middle.
+- [Pattern: Two Pointers](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/two-pointers.md): Two Pointers keeps two positions in the same array or string and moves them under a rule.
+- [Pattern: Union Find](https://github.com/design-gurus/grokking-coding-interview/blob/main/patterns/union-find.md): Union Find, also called a disjoint set union, maintains a collection of groups.
+
+## Problems
+
+- [Balanced Parentheses](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/balanced-parentheses.md): You are given a string of brackets, which may mix round, square, and curly.
+- [Binary Tree Level Order Traversal](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/binary-tree-level-order-traversal.md): You are given the root of a binary tree.
+- [Clone Graph](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/clone-graph.md): You are given a reference to a node in a connected undirected graph.
+- [Container With Most Water](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/container-with-most-water.md): You are given an array where each entry is the height of a vertical line, and the lines stand one unit apart.
+- [Daily Temperatures](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/daily-temperatures.md): You are given an array of daily temperatures.
+- [Find the Median of a Number Stream](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/find-the-median-of-a-number-stream.md): Design a structure with two operations.
+- [Find the Missing Number](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/find-the-missing-number.md): You are given an array of n distinct numbers, all drawn from the range 0 to n.
+- [LinkedList Cycle](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/linkedlist-cycle.md): You are given the head of a singly linked list.
+- [Merge Intervals](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/merge-intervals.md): You are given a list of intervals, each a start and an end.
+- [Merge K Sorted Lists](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/merge-k-sorted-lists.md): You are given K linked lists, each already sorted in ascending order.
+- [Minimum Meeting Rooms](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/minimum-meeting-rooms.md): You are given meetings, each with a start and an end time.
+- [Number of Islands](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/number-of-islands.md): You are given a 2D grid where each cell is land or water.
+- [Reverse a LinkedList](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/reverse-a-linked-list.md): You are given the head of a singly linked list.
+- [Search in Rotated Array](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/search-in-rotated-array.md): You are given an array that was sorted in ascending order and then rotated at some unknown pivot, so [1,2,3,4,5] might arrive as [4,5,1,2,3].
+- [Serialize and Deserialize Binary Tree](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/serialize-and-deserialize-binary-tree.md): Design two functions.
+- [Smallest Window containing Substring](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/smallest-window-containing-substring.md): You are given a string and a pattern.
+- [Subarray Sum Equals K](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/subarray-sum-equals-k.md): You are given an array of integers and a target k.
+- [Subsets](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/subsets.md): You are given a list of distinct integers.
+- [Tasks Scheduling](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/tasks-scheduling.md): You are given a number of tasks and a list of prerequisite pairs.
+- [Two Sum](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/two-sum.md): You are given an array of integers and a target number.
+- [Validate Binary Search Tree](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/validate-binary-search-tree.md): You are given the root of a binary tree.
+- [Word Search](https://github.com/design-gurus/grokking-coding-interview/blob/main/problems/word-search.md): You are given a grid of letters and a word.
+
+## Related free guides
+
+- [Grokking System Design](https://github.com/design-gurus/grokking-system-design): 30 patterns, 59 question walkthroughs, 35 cheat sheets, and guides for 122 companies.
+- [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design): Building blocks and design questions for machine learning, LLM, and agent design rounds.
+- [Design Patterns](https://github.com/design-gurus/design-patterns): The 22 Gang of Four patterns and more than 60 system design patterns.
+- [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources): Courses, books, papers, and videos, sorted by level.
+- [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses): System design courses compared by format, depth, and level.
+- [System Design Numbers](https://github.com/design-gurus/system-design-numbers): Latency numbers, availability tables, traffic formulas, and ten worked capacity estimations.
+- [API Design Interview](https://github.com/design-gurus/api-design-interview): A six-step method for the API design round, the core concepts, and eight question walkthroughs.
+- [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview): The client side of system design: rendering, state, caching, performance, and eight question walkthroughs.
+- [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview): System design for iOS and Android engineers: offline sync, caching, push, performance, and eight question walkthroughs.
+- [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions): About 100 questions with short model answers, from service boundaries to sagas and migration.
+- [Concurrency Interview](https://github.com/design-gurus/concurrency-interview): Core concepts and nine classic problems solved in Java, Python, and Go.
+- [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview): The loop round by round: troubleshooting, Linux and networking, SRE system design, and incident response.
+- [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview): SQL, data modeling, and pipeline design rounds, with six pipeline design walkthroughs.
+- [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview): The forward deployed engineer loop, the decomposition round, and the loops at five companies.
+- [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview): Architecture design, customer discovery, and presentation rounds, with loops at five cloud and data companies.
+- [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview): What changes at staff level: the loop, system design at staff scope, the project deep dive, and down-leveling.
+- [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview): The manager loop round by round: people management, project retrospective, behavioral, and system design for managers.
+- [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles): All 16 principles with interview questions, sample answers, and how the Amazon loop works.
+- [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels): Engineering ladders at 17 companies, how levels map across them, and what interviews expect at each level.
+- [Google Interview Guide](https://github.com/design-gurus/google-interview-guide): The whole Google loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide): The whole Meta loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide): The whole Amazon loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide): The whole Microsoft loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide): The whole Apple loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide): The whole Netflix loop: process, coding, system design, behavioral, levels, and a question bank.
+- [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide): The whole OpenAI loop: process, coding, system design, behavioral, levels, and a question bank.
+- [Anthropic Interview Guide](https://github.com/design-gurus/anthropic-interview-guide): The whole Anthropic loop: process, coding, system design, behavioral, levels, and a question bank.
+
+## Optional
+
+The paid course this guide accompanies, for full lessons and worked solutions.
+
+- [Course on DesignGurus.io](https://www.designgurus.io/course/grokking-the-coding-interview): The course linked throughout this guide.

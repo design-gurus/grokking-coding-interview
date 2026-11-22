@@ -113,6 +113,6 @@ Find if Path Exists in Graph, Number of Provinces, Word Ladder, Bus Routes, Find
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Graph](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-graph)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- The data structure itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
+- This pattern's introduction in the course: [Introduction to Graph](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-graph?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-graphs)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-graphs)
+- The data structure itself, from scratch: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-graphs)

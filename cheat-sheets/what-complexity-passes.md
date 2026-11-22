@@ -77,4 +77,4 @@ without you having to code it, and it usually makes the pattern obvious as you s
 
 - [How to recognize the pattern in sixty seconds](recognize-the-pattern.md)
 - [Complexity of every pattern and data structure](complexity-cheat-sheet.md)
-- Complexity from the ground up: [Grokking Algorithm Complexity and Big O](https://www.designgurus.io/course/grokking-algorithm-complexity-and-big-o)
+- Complexity from the ground up: [Grokking Algorithm Complexity and Big O](https://www.designgurus.io/course/grokking-algorithm-complexity-and-big-o?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=cheat-sheets-what-complexity-passes)

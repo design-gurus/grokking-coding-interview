@@ -101,5 +101,5 @@ Serialize and Deserialize Binary Tree, Serialize and Deserialize BST, Serialize 
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Serialize and Deserialize Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-serialize-and-deserialize-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Serialize and Deserialize Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-serialize-and-deserialize-pattern?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-serialize-and-deserialize)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-serialize-and-deserialize)

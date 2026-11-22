@@ -68,4 +68,4 @@ be popped once, so the total work is linear." That sentence is what the question
 ## The full solution
 
 Worked solution in six languages, with runnable tests and an editor to attempt it yourself first:
-[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+[Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=problems-daily-temperatures)

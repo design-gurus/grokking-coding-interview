@@ -1,6 +1,6 @@
 # Grokking the Coding Interview
 
-> The free, open companion to the **Grokking the Coding Interview** course by [DesignGurus.io](https://www.designgurus.io/course/grokking-the-coding-interview), created by Arslan Ahmad.
+> The free, open companion to the **Grokking the Coding Interview** course by [DesignGurus.io](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme), created by Arslan Ahmad.
 
 Stop memorizing solutions. Learn the 41 patterns behind them, and a problem you have never seen starts to look familiar.
 
@@ -31,7 +31,7 @@ This repository is the free index, summary, and cheat sheet collection for that 
 
 Grokking the Coding Interview is the pattern-based approach to coding interviews. Instead of grinding hundreds of problems and hoping the right ones come up, you learn a small set of reusable techniques. The sliding window, the monotonic stack, the topological sort. Then you learn what each one looks like from the outside. Then a new problem is not new. It is a sliding window problem with a frequency map, and you have written that before.
 
-There are 41 of these patterns, and they cover the overwhelming majority of what gets asked. This methodology was created by Arslan Ahmad. The original, fully updated course lives at [DesignGurus.io](https://www.designgurus.io/course/grokking-the-coding-interview).
+There are 41 of these patterns, and they cover the overwhelming majority of what gets asked. This methodology was created by Arslan Ahmad. The original, fully updated course lives at [DesignGurus.io](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme).
 
 The part people skip is recognition. Knowing how a sliding window works is easy. Knowing that the problem in front of you is a sliding window problem is the skill that gets tested, and it is what this repo is organized around. Every pattern page leads with a **Recognize it when** section.
 
@@ -39,9 +39,9 @@ The part people skip is recognition. Knowing how a sliding window works is easy.
 
 No. There is no official PDF, ebook, or printed book of the Grokking the Coding Interview course, and there never has been. The PDF files that circulate online are unofficial copies of an old version. They are missing the newer patterns, the newer problems, and every correction made since they were made.
 
-This repository is the official free way to read the material. Every pattern guide and cheat sheet here is free in your browser, with no account needed. The full, current course, with runnable solutions in six languages, is online at [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview).
+This repository is the official free way to read the material. Every pattern guide and cheat sheet here is free in your browser, with no account needed. The full, current course, with runnable solutions in six languages, is online at [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme).
 
-For more on the series, see [What is the Grokking series?](https://www.designgurus.io/answers/detail/what-is-the-grokking-series)
+For more on the series, see [What is the Grokking series?](https://www.designgurus.io/answers/detail/what-is-the-grokking-series?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme)
 
 ## How to use this repo
 
@@ -50,7 +50,7 @@ For more on the series, see [What is the Grokking series?](https://www.designgur
 3. Practice with the [problem index](problems/), which maps every problem in the course to its pattern. Cover the pattern heading, name the pattern yourself, then check.
 4. After every problem, write down which pattern it was and which cue told you. That note is worth more than the solution.
 5. The night before an interview, reread only the "Recognize it when" sections.
-6. Go deeper in the [full course](https://www.designgurus.io/course/grokking-the-coding-interview) when you want worked solutions and a place to run them.
+6. Go deeper in the [full course](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme) when you want worked solutions and a place to run them.
 
 ## How to attack a problem you have never seen
 
@@ -89,7 +89,7 @@ All 41, one page each, are in [patterns/](patterns/). The most common twelve:
 
 See the full catalog, including the eleven advanced patterns: [patterns/README.md](patterns/README.md)
 
-Want the core set explained rather than listed? The twenty highest-return patterns are written up with a template, a diagram and three LeetCode problems each in [LeetCode patterns](https://www.designgurus.io/blog/top-lc-patterns). This repo stays the complete reference for all 41; that guide is the one to read first if you are starting out.
+Want the core set explained rather than listed? The twenty highest-return patterns are written up with a template, a diagram and three LeetCode problems each in [LeetCode patterns](https://www.designgurus.io/blog/top-lc-patterns?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme). This repo stays the complete reference for all 41; that guide is the one to read first if you are starting out.
 
 ## The problem index
 
@@ -138,9 +138,9 @@ Amortized, invariant, subsequence versus substring, pseudo-polynomial, and the r
 
 Free guides on the DesignGurus blog and answers, plus every related course: [resources.md](resources.md)
 
-Start with [the coding patterns, explained](https://www.designgurus.io/blog/grokking-the-coding-interview-patterns) and [do not just grind LeetCode](https://www.designgurus.io/blog/dont-just-leetcode).
+Start with [the coding patterns, explained](https://www.designgurus.io/blog/grokking-the-coding-interview-patterns?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme) and [do not just grind LeetCode](https://www.designgurus.io/blog/dont-just-leetcode?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme).
 
-For the twenty that matter most against LeetCode specifically, each with a code template, a diagram and three practice problems, read [LeetCode patterns](https://www.designgurus.io/blog/top-lc-patterns).
+For the twenty that matter most against LeetCode specifically, each with a code template, a diagram and three practice problems, read [LeetCode patterns](https://www.designgurus.io/blog/top-lc-patterns?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme).
 
 ## What is coming next
 
@@ -157,10 +157,10 @@ Want one of them sooner, or want to write one? Open an issue or a pull request.
 
 This repo explains the patterns and how to recognize them. The course teaches each one in depth, with more than 300 problems, worked solutions in six languages, and an editor to run them in.
 
-- Course: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
-- If the data structures themselves are the gap: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews)
-- If dynamic programming is the gap: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming)
-- Practice live: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews)
+- Course: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme)
+- If the data structures themselves are the gap: [Grokking Data Structures](https://www.designgurus.io/course/grokking-data-structures-for-coding-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme)
+- If dynamic programming is the gap: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme)
+- Practice live: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme)
 - Designing systems, not just solving problems: [grokking-system-design](https://github.com/design-gurus/grokking-system-design)
 - Choosing a system design course: [best-system-design-courses](https://github.com/design-gurus/best-system-design-courses), the best system design courses compared by format, price, and goal
 
@@ -169,6 +169,16 @@ This repo explains the patterns and how to recognize them. The course teaches ea
 Coding and system design interview tips, straight to your inbox.
 
 [Subscribe on Substack](https://designgurus.substack.com/)
+
+## More free guides
+
+Every guide below is free, follows the same short-page format, and comes from DesignGurus.io.
+
+- **Core guides:** [Grokking System Design](https://github.com/design-gurus/grokking-system-design), [Grokking AI System Design](https://github.com/design-gurus/grokking-ai-system-design), [Design Patterns](https://github.com/design-gurus/design-patterns), [Best System Design Resources](https://github.com/design-gurus/best-system-design-resources), [Best System Design Courses](https://github.com/design-gurus/best-system-design-courses)
+- **By interview round:** [System Design Numbers](https://github.com/design-gurus/system-design-numbers), [API Design Interview](https://github.com/design-gurus/api-design-interview), [Frontend System Design Interview](https://github.com/design-gurus/frontend-system-design-interview), [Mobile System Design Interview](https://github.com/design-gurus/mobile-system-design-interview), [Microservices Interview Questions](https://github.com/design-gurus/microservices-interview-questions), [Concurrency Interview](https://github.com/design-gurus/concurrency-interview)
+- **By role:** [DevOps and SRE Interview](https://github.com/design-gurus/devops-sre-interview), [Data Engineering Interview](https://github.com/design-gurus/data-engineering-interview), [Forward Deployed Engineer Interview](https://github.com/design-gurus/forward-deployed-engineer-interview), [Solutions Architect Interview](https://github.com/design-gurus/solutions-architect-interview)
+- **Seniority and behavioral:** [Staff Engineer Interview](https://github.com/design-gurus/staff-engineer-interview), [Engineering Manager Interview](https://github.com/design-gurus/engineering-manager-interview), [Amazon Leadership Principles](https://github.com/design-gurus/amazon-leadership-principles), [Software Engineer Levels](https://github.com/design-gurus/software-engineer-levels)
+- **By company:** [Google Interview Guide](https://github.com/design-gurus/google-interview-guide), [Meta Interview Guide](https://github.com/design-gurus/meta-interview-guide), [Amazon Interview Guide](https://github.com/design-gurus/amazon-interview-guide), [Microsoft Interview Guide](https://github.com/design-gurus/microsoft-interview-guide), [Apple Interview Guide](https://github.com/design-gurus/apple-interview-guide), [Netflix Interview Guide](https://github.com/design-gurus/netflix-interview-guide), [OpenAI Interview Guide](https://github.com/design-gurus/openai-interview-guide), [Anthropic Interview Guide](https://github.com/design-gurus/anthropic-interview-guide)
 
 ## Contributing
 
@@ -180,4 +190,4 @@ Content is licensed under [Creative Commons Attribution 4.0 (CC BY 4.0)](LICENSE
 
 ## About
 
-Maintained by [DesignGurus.io](https://www.designgurus.io/), the home of the original Grokking the Coding Interview course by Arslan Ahmad.
+Maintained by [DesignGurus.io](https://www.designgurus.io/?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=readme), the home of the original Grokking the Coding Interview course by Arslan Ahmad.

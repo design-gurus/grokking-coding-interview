@@ -131,4 +131,4 @@ problem harder, which is fine and is a much better outcome than being caught.
 
 - [How to recognize the pattern in sixty seconds](recognize-the-pattern.md)
 - [Edge cases checklist](edge-cases-checklist.md)
-- Practice with a person: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews)
+- Practice with a person: [Mock interviews with ex-FAANG engineers](https://www.designgurus.io/mock-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=cheat-sheets-interview-communication)

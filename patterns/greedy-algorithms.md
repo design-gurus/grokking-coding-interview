@@ -89,5 +89,5 @@ Maximum Length of Pair Chain, Non-overlapping Intervals, Minimum Add to Make Par
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Greedy Algorithm](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-greedy-algorithm)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Greedy Algorithm](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-greedy-algorithm?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-greedy-algorithms)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-greedy-algorithms)

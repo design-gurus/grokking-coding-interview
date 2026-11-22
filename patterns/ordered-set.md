@@ -90,5 +90,5 @@ My Calendar I, My Calendar II, 132 Pattern, Merge Similar Items, Longest Continu
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Ordered Set Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-ordered-set-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Ordered Set Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-ordered-set-pattern?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-ordered-set)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-ordered-set)

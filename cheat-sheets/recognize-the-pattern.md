@@ -126,4 +126,4 @@ Then say what you have out loud: "the brute force here is O(n²) because of the 
 ## Go deeper
 
 - All 41 patterns, one page each: [patterns/](../patterns/)
-- The full course, with worked solutions in six languages: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- The full course, with worked solutions in six languages: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=cheat-sheets-recognize-the-pattern)

@@ -86,5 +86,5 @@ Maximum Sum Subarray of Size K, Smallest Subarray with a Given Sum, Longest Subs
 
 ## Go deeper
 
-- This pattern's introduction in the course: [Introduction to Sliding Window Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-sliding-window-pattern)
-- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview)
+- This pattern's introduction in the course: [Introduction to Sliding Window Pattern](https://www.designgurus.io/course-play/grokking-the-coding-interview/doc/introduction-to-sliding-window-pattern?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-sliding-window)
+- The problems that use it, with worked solutions in six languages and runnable tests: [Grokking the Coding Interview](https://www.designgurus.io/course/grokking-the-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=patterns-sliding-window)

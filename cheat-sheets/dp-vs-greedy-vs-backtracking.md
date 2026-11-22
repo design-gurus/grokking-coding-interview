@@ -111,5 +111,5 @@ have nothing to debug against.
 ## Go deeper
 
 - [Greedy Algorithms](../patterns/greedy-algorithms.md), [0/1 Knapsack](../patterns/0-1-knapsack.md), [Fibonacci Numbers](../patterns/fibonacci-numbers.md), [Palindromic Subsequence](../patterns/palindromic-subsequence.md), [Backtracking](../patterns/backtracking.md), [Subsets](../patterns/subsets.md)
-- Every dynamic programming pattern in depth: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming)
-- Recursion and backtracking in depth: [Grokking the Art of Recursion](https://www.designgurus.io/course/grokking-recursion-for-coding-interview)
+- Every dynamic programming pattern in depth: [Grokking Dynamic Programming](https://www.designgurus.io/course/grokking-dynamic-programming?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=cheat-sheets-dp-vs-greedy-vs-backtracking)
+- Recursion and backtracking in depth: [Grokking the Art of Recursion](https://www.designgurus.io/course/grokking-recursion-for-coding-interview?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=cheat-sheets-dp-vs-greedy-vs-backtracking)

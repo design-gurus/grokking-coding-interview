@@ -92,4 +92,4 @@ are solved, and it is much simpler than running one search per source.
 ## Go deeper
 
 - [Graphs](../patterns/graphs.md), [Tree Level Order Traversal](../patterns/tree-level-order-traversal.md), [Tree Depth First Search](../patterns/tree-depth-first-search.md), [Island Traversal](../patterns/island-matrix-traversal.md)
-- Graph algorithms beyond these two: [Grokking Graph Algorithms](https://www.designgurus.io/course/grokking-graph-algorithms-for-coding-interviews)
+- Graph algorithms beyond these two: [Grokking Graph Algorithms](https://www.designgurus.io/course/grokking-graph-algorithms-for-coding-interviews?utm_source=github&utm_medium=repo&utm_campaign=grokking-coding-interview&utm_content=cheat-sheets-bfs-vs-dfs)
